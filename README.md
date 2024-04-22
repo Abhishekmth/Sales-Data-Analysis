@@ -13,7 +13,7 @@
    • [results](#results)   
    • [recommendations](#recommendations)
 
-# Airlines-Dashboard
+# Sales-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/links/NuYPjipnGk?ctid=c926117c-d61c-42c9-9d8a-669bd55fc9a8&pbi_source=linkShare
 
