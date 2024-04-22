@@ -41,9 +41,9 @@
     
 ### Exploratory Data Analysis(EDA)
 
-   1.what is the overall sales trend?
-   2.which products are top sellers?
-   3.what are the peak sales periods?
+   1.what is the overall sales trend?   
+   2.which products are top sellers?     
+   3.which product gets maximum discount?   
 
 
 ### Results
